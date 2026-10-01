@@ -51,13 +51,13 @@ export type SocialLink = {
 };
 
 export const personal = {
-  name: "[YOUR NAME]",
-  initials: "[YN]",
-  title: "[Software Developer]",
-  location: "[YOUR LOCATION]",
-  email: "[YOUR EMAIL]",
+  name: "VIGNESH",
+  initials: "N",
+  title: "DEVELOPER, DATA SCIENTIST, ASSISTANT PROFESSOR",
+  location: "TRICHY",
+  email: "vigneshnprofessional@gmail.com",
   availableForWork: true,
-  heroGreeting: "Hi, I'm [YOUR NAME] 👋",
+  heroGreeting: "Hi, I'm VIGNESH N 👋",
   heroHeadline: "Building digital experiences that solve real problems.",
   heroSubtext:
     "I'm a passionate software developer focused on building scalable, user-friendly applications and exploring modern web technologies, AI, and automation.",
